@@ -33,6 +33,5 @@ t - ścieżka do folderu ze zdjęciami testowymi
 
 ## Model sieci SmallerVGGNet
 Model sieci bazowany jest na poniższym diagramie. Model ten w oryginalnym projekcie był wykorzystywany do rozpoznawania Pokemonów.
-Link do projektu: https://github.com/sksoumik/machine-learning-projects/blob/master/pokemon_classification_cnn/cnn-keras/pyimagesearch/smallervggnet.py
 
 ![https://pyimagesearch.com/wp-content/uploads/2018/04/smallervggnet_model.png](https://pyimagesearch.com/wp-content/uploads/2018/04/smallervggnet_model.png)
